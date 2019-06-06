@@ -1,0 +1,28 @@
+.container{
+    height: 600px;
+    width: 900px;
+    background-color: black;
+    margin: 50px auto;
+    position: relative;
+}
+.char{
+    position: absolute;
+    height: 32px;
+    width: 80px;
+    top: 500px;
+    left: 410px;
+}
+.socle{
+    height: 20px;
+    width: inherit;
+    background-color: aqua;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.canon{
+    height: 12px;
+    width: 10px;
+    background-color: aqua;
+    margin: 0 0 0 35px;
+
+}
