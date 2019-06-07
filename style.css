@@ -9,8 +9,6 @@
     position: absolute;
     height: 32px;
     width: 80px;
-    top: 500px;
-    left: 410px;
 }
 .socle{
     height: 20px;
@@ -25,4 +23,12 @@
     background-color: aqua;
     margin: 0 0 0 35px;
 
+}
+.balle{
+    position: absolute;
+    display: none;
+    background-color: hotpink;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
 }
