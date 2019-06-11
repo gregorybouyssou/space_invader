@@ -10,10 +10,10 @@
     height: 32px;
     width: 80px;
 }
-.socle{
+.socle {
     height: 20px;
     width: inherit;
-    background-color: aqua;
+    background-color: aquamarine;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
@@ -31,4 +31,10 @@
     border-radius: 50%;
     height: 10px;
     width: 10px;
+}
+.ennemy{
+    position: absolute;
+    background-color: blueviolet;
+    height: 40px;
+    width: 40px;
 }

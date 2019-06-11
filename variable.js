@@ -12,3 +12,13 @@ let charTop = char.clientTop
 //mouvement char
 let vitesse = 5
 let positionChar = (positionX - demiLargeurChar)
+
+//ennemis
+let vitesseEnnemy = 50
+let ennemy = document.querySelector('.ennemy')
+console.log(ennemy)
+let positionEnnemy = 0
+
+//mouvement ennemis
+let enemytop = 0
+let vitesseTop = 0
